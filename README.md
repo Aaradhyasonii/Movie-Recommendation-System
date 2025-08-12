@@ -41,31 +41,30 @@ The system integrates **user authentication** with SQLite and fetches movie post
 
 1. **Clone the repository**
    ```bash
+   
    git clone https://github.com/your-username/movie-recommendation-system.git
    cd movie-recommendation-system
-
-```
-pip install -r requirements.txt
-
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 2. **Install dependencies**
    ```bash
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 3. **Add your TMDB API key in the script:**
    ```bash
-```
-TMDB_API_KEY = "your_api_key_here"
-```
+   ```
+   TMDB_API_KEY = "your_api_key_here"
+   ```
 
 4. **Run the app**
    ```bash
-```
-streamlit run app.py
-```
+   ```
+   streamlit run app.py
+   ```
 
 # 📜 License
 This project is licensed under the MIT License - feel free to use and modify it.
